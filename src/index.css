@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+
+.slick-dots li.slick-active div {
+  background-color: #F65D5D !important; /* Active dot color */
+}
+
+.slick-dots li div {
+  background-color: #CCCCCC; /* Inactive dot color */
+}
+
+/* styles.css or tailwind.css */
+.custom-gradient {
+  background: linear-gradient(145deg, #f65d5d 0%, #fdb07d 100%);
+}
+
