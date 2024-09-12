@@ -1,6 +1,6 @@
 import React from "react";
 import GoogleMap from "./googleMap.jsx"; 
-import SignUpForm from "./SignUpForm.jsx"; 
+import SignUpForm from "./signUpForm.jsx"; 
 
 const SignUp = () => {
   return (

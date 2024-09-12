@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider from "react-slick";
-import ImageCard from "./ImageCard.jsx";
+import ImageCard from "./imageCard.jsx";
 import image1 from "../../../../image/pages/home/infor/1.jpg";  
 import image2 from "../../../../image/pages/home/infor/2.jpg";  
 import image3 from "../../../../image/pages/home/infor/3.jpg";  
